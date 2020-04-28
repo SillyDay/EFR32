@@ -1,0 +1,20 @@
+What's new in EmberZNet 6.7.4.0:
+  * Selected quality improvements and bug fixes
+  * Default CSTACK size has been increased to 3200 bytes for stack protected images on em3xx 
+
+What's new in EmberZNet 6.7.3.0:
+  * Support for EFR32MG22 parts
+  * Green power device and sensor sample applications available for EFR32MG22 on SLWRB4182A and SLWRB4183A
+  * Selected quality improvements and bug fixes
+
+What's new in EmberZNet 6.7.2.0:
+  * Selected quality improvements and bug fixes
+
+What's new in EmberZNet 6.7.1.0:
+  * Selected quality improvements and bug fixes
+
+What's new in EmberZNet 6.7.0.0:
+  * Adds sample application for Zigbee Alliance TIS/TRP RF testing
+  * New optimized network steering algorithm
+  * Limited token set option for Smart Energy CommsHub
+  * Expanded EZSP Frame Header to support additional frame IDs
